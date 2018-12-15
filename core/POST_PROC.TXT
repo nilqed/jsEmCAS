@@ -1,0 +1,9 @@
+
+
+
+--> TOP
+var Module = {'noInitialRun': true,
+              'print': function(text) { alert(text) }} ;
+              
+--> BOTTOM
+RunBuffer = Module.cwrap('RunBuffer','number',['string']) ;
