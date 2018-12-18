@@ -7,18 +7,18 @@ Standalone html file ``jsemcas.html`` (~3MB): [Test it.](http://nilqed.github.io
 
 [Source](https://web.archive.org/web/20050322045320/http://eigenmath.sourceforge.net:80/functions.html)
 
-Here is a list of the built-in functions. There is an index at the bottom of the page.
+Here is a list of the built-in functions. 
 
 Index
 [abs](#absx)
-[adj](#adj)
-arccos
-arccosh
-arcsin
-arcsinh
-arctan
-arctanh
-binomial
+[adj](#adjm)
+[arccos](#arccosx)
+[arccosh](#arccoshx)
+[arcsin](#arcsinx)
+[arcsinh](#arcsinhx)
+[arctan](#arctanx)
+[arctanh](#arctanhx)
+[binomial](#binomialnk)
 break
 ceiling
 check
