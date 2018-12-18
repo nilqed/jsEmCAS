@@ -1,7 +1,9 @@
 # jsEmCAS
 Javascript Computer Algebra System (standalone/emscripten based on eigenmath)
 
-Standalone html file ``jsemcas.html`` (~3MB): [Test it.](http://nilqed.github.io/jsEmCAS/)
+Standalone html file ``jsemcas.html`` (~3MB):  :arrow_right: [Test it.](http://nilqed.github.io/jsEmCAS/)
+
+ :question: ``wiki``  for some examples
 
 # Built-in functions
 
